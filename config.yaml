@@ -1,0 +1,158 @@
+publisher:
+  name: Foresee
+  website: https://foresee.lol/
+  email: bradly@foresee.lol
+app:
+  name: Foresee
+  address: 5FJjzoirAZb3u1h3JtALvRTFYD2B1m6ZjKjrTAShbXQx
+  android_package: lol.foresee.app
+  urls:
+    license_url: https://foresee.lol/license
+    copyright_url: https://foresee.lol/license
+    privacy_policy_url: https://foresee.lol/privacy
+    website: https://foresee.lol/
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+release:
+  address: 88Wf3JARTaJJndCsRA5Cp6UMrJo5WDDLDBwa95sSqWtv
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+    - purpose: banner
+      uri: ./media/banner.png
+    - purpose: screenshot
+      uri: ./media/screenshot_1.png
+    - purpose: screenshot
+      uri: ./media/screenshot_2.png
+    - purpose: screenshot
+      uri: ./media/screenshot_3.png
+    - purpose: screenshot
+      uri: ./media/screenshot_4.png
+  files:
+    - purpose: install
+      uri: ./files/app-release.apk
+  catalog:
+    en-US:
+      name: Foresee
+      short_description: Social prediction platform
+      long_description: |
+        Foresee.lol turns prediction into a social experience
+
+        With a few taps, users can predict using USDC, see what friends and X followers are calling in real time, and compete on leaderboards for accuracy, alpha, and bragging rights.
+
+        Why choose Foresee?
+        - **Social by Design**: Deposit once and let your assets work for you.Predict with friends, creators, and your X followers — all in a public feed of real-time calls.
+        - **On-Chain & Instant**: Powered by Solana for fast, low-cost markets where you earn when you’re right.
+        - **Reputation & Analytics**: Build your foresight identity with stats, accuracy scores, and verified track records.
+        - **Simple & Fun**: No complexity — just make a call, share it, and see how you stack up.
+        - **Transparent & Non-Custodial**: Every prediction is verifiable on-chain, powered by Privy
+
+        Foresee.lol is the easiest way to turn your opinions into on-chain signals — and prove your predictions to the world.
+      new_in_version: New version 1.0.0.
+      saga_features: None yet
+  android_details:
+    cert_fingerprint: fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c
+    min_sdk: 24
+    version: 1.0.0
+    version_code: 2
+    locales:
+      - en-US
+      - af
+      - am
+      - ar
+      - as
+      - az
+      - be
+      - bg
+      - bn
+      - bs
+      - ca
+      - cs
+      - da
+      - de
+      - el
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-IN
+      - en-XC
+      - es
+      - es-419
+      - es-ES
+      - es-US
+      - et
+      - eu
+      - fa
+      - fi
+      - fr
+      - fr-CA
+      - gl
+      - gu
+      - hi
+      - hr
+      - hu
+      - hy
+      - in
+      - is
+      - it
+      - iw
+      - ja
+      - ka
+      - kk
+      - km
+      - kn
+      - ko
+      - ky
+      - lo
+      - lt
+      - lv
+      - mk
+      - ml
+      - mn
+      - mr
+      - ms
+      - my
+      - nb
+      - ne
+      - nl
+      - or
+      - pa
+      - pl
+      - pt
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - si
+      - sk
+      - sl
+      - sq
+      - sr
+      - sr-Latn
+      - sv
+      - sw
+      - ta
+      - te
+      - th
+      - tl
+      - tr
+      - uk
+      - ur
+      - uz
+      - vi
+      - zh-CN
+      - zh-HK
+      - zh-TW
+      - zu
+solana_mobile_dapp_publisher_portal:
+  testing_instructions: You just connect to any supported wallets to test the app.
+  alpha_testers:
+    - address: feebzUKScpg4quE4H7HDKrACsEkzjEqRWuKZJALX8V1
+      comment: Test user 1
+lastSubmittedVersionOnChain:
+  address: 88Wf3JARTaJJndCsRA5Cp6UMrJo5WDDLDBwa95sSqWtv
+  version_code: 2
+  apk_hash: GIjz6swenhcTmcsuNkwBH5ymtb8EAvtRN7DBCGIWpfw=
+lastUpdatedVersionOnStore:
+  address: 88Wf3JARTaJJndCsRA5Cp6UMrJo5WDDLDBwa95sSqWtv
