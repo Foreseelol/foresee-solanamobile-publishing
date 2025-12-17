@@ -8,14 +8,14 @@ app:
   android_package: lol.foresee.app
   urls:
     license_url: https://foresee.lol/license
-    copyright_url: https://foresee.lol/license
+    copyright_url: https://foresee.lol/copyright
     privacy_policy_url: https://foresee.lol/privacy
     website: https://foresee.lol/
   media:
     - purpose: icon
       uri: ./media/app_icon.png
 release:
-  address: 4GA5h6Erdagybow5N72zy1S5SeVgFzmgtWtKPfhuaabX
+  address: GQHXHZJ7rzncVdZ649YKMDya1FNRQaFq8w3zfrVVaKQa
   media:
     - purpose: icon
       uri: ./media/app_icon.png
@@ -52,10 +52,10 @@ release:
       new_in_version: Improve performance & bug fixes.
       saga_features: None yet
   android_details:
-    cert_fingerprint: fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c
+    cert_fingerprint: baab40a92295313b2ae322dc9eb51268aebbd17b9bc3f3b79496a541a24ee852
     min_sdk: 24
-    version: 1.0.1
-    version_code: 3
+    version: 1.0.2
+    version_code: 4
     locales:
       - en-US
       - af
@@ -151,8 +151,8 @@ solana_mobile_dapp_publisher_portal:
     - address: feebzUKScpg4quE4H7HDKrACsEkzjEqRWuKZJALX8V1
       comment: Test user 1
 lastSubmittedVersionOnChain:
-  address: 4GA5h6Erdagybow5N72zy1S5SeVgFzmgtWtKPfhuaabX
-  version_code: 3
-  apk_hash: RL6ZxCmVRdIN7wcyKoEq8IJXKpKciECu7oJ4iCfZjbY=
+  address: GQHXHZJ7rzncVdZ649YKMDya1FNRQaFq8w3zfrVVaKQa
+  version_code: 4
+  apk_hash: WL/FQqDuc5a6LzJSTaPrdiRB4tJpAEWM4Md2r2xHbEg=
 lastUpdatedVersionOnStore:
-  address: 4GA5h6Erdagybow5N72zy1S5SeVgFzmgtWtKPfhuaabX
+  address: GQHXHZJ7rzncVdZ649YKMDya1FNRQaFq8w3zfrVVaKQa
