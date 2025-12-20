@@ -15,7 +15,7 @@ app:
     - purpose: icon
       uri: ./media/app_icon.png
 release:
-  address: 2EXajgm2R64EfxPjxNXCGwzoJMQzGrLo8FZvYJzHCZdU
+  address: 95N2mTBK7w6g54FC4LKLhEay4qFf3pHjVenkoRWjFiwp
   media:
     - purpose: icon
       uri: ./media/app_icon.png
@@ -49,13 +49,13 @@ release:
         - **Transparent & Non-Custodial**: Every prediction is verifiable on-chain, powered by Privy
 
         Foresee.lol is the easiest way to turn your opinions into on-chain signals — and prove your predictions to the world.
-      new_in_version: Improve performance & bug fixes.
+      new_in_version: Improve performance & bug fixes
       saga_features: None yet
   android_details:
     cert_fingerprint: baab40a92295313b2ae322dc9eb51268aebbd17b9bc3f3b79496a541a24ee852
     min_sdk: 24
-    version: 1.0.3
-    version_code: 5
+    version: 1.0.4
+    version_code: 6
     locales:
       - en-US
       - af
@@ -151,8 +151,8 @@ solana_mobile_dapp_publisher_portal:
     - address: feebzUKScpg4quE4H7HDKrACsEkzjEqRWuKZJALX8V1
       comment: Test user 1
 lastSubmittedVersionOnChain:
-  address: 2EXajgm2R64EfxPjxNXCGwzoJMQzGrLo8FZvYJzHCZdU
-  version_code: 5
-  apk_hash: RAeG8KP3U7YLKAWKOnb3YYxSTYMROaahLNLR97ikVsA=
+  address: 95N2mTBK7w6g54FC4LKLhEay4qFf3pHjVenkoRWjFiwp
+  version_code: 6
+  apk_hash: KBDukyMbtH5+SvmAfypt+gy8Xtrk6DCjOnCH9it0cGg=
 lastUpdatedVersionOnStore:
-  address: 2EXajgm2R64EfxPjxNXCGwzoJMQzGrLo8FZvYJzHCZdU
+  address: 95N2mTBK7w6g54FC4LKLhEay4qFf3pHjVenkoRWjFiwp
