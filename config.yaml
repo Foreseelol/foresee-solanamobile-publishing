@@ -15,7 +15,7 @@ app:
     - purpose: icon
       uri: ./media/app_icon.png
 release:
-  address: ji27tC6XZAdjDUR5MpLkF7Vsza9c6hmDeb8tKinc9Vi
+  address: Drez8z5xSxzVizdNb1FJbP3W5HGPhZpSj2mBdXD2y1zP
   media:
     - purpose: icon
       uri: ./media/app_icon.png
@@ -54,8 +54,8 @@ release:
   android_details:
     cert_fingerprint: baab40a92295313b2ae322dc9eb51268aebbd17b9bc3f3b79496a541a24ee852
     min_sdk: 24
-    version: 1.0.5
-    version_code: 7
+    version: 1.0.7
+    version_code: 9
     locales:
       - en-US
       - af
@@ -151,8 +151,8 @@ solana_mobile_dapp_publisher_portal:
     - address: feebzUKScpg4quE4H7HDKrACsEkzjEqRWuKZJALX8V1
       comment: Test user 1
 lastSubmittedVersionOnChain:
-  address: ji27tC6XZAdjDUR5MpLkF7Vsza9c6hmDeb8tKinc9Vi
-  version_code: 7
-  apk_hash: eXqX0+zDiL5kFArGR/jVDAv5hNv7WuEia7Gx5frNVG0=
+  address: Drez8z5xSxzVizdNb1FJbP3W5HGPhZpSj2mBdXD2y1zP
+  version_code: 9
+  apk_hash: mjanzR/yi/fOLqiT+p5N0auJtVf1LE/NxpVxi9SSYDw=
 lastUpdatedVersionOnStore:
-  address: ji27tC6XZAdjDUR5MpLkF7Vsza9c6hmDeb8tKinc9Vi
+  address: Drez8z5xSxzVizdNb1FJbP3W5HGPhZpSj2mBdXD2y1zP
